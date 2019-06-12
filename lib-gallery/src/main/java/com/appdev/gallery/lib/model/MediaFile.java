@@ -1,4 +1,4 @@
-package com.appdev.gallery.lib;
+package com.appdev.gallery.lib.model;
 
 import android.os.Parcel;
 import android.os.Parcelable;

@@ -3,7 +3,8 @@
     package="com.appdev.gallery.lib">
 
     <application>
-        <activity android:name=".GalleryActivity"></activity>
+        <activity android:name=".GalleryActivity" />
+        <activity android:name=".GalleryPreviewActivity"></activity>
     </application>
 
 </manifest>
